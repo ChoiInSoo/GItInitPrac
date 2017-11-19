@@ -1,0 +1,9 @@
+C:\code\GitInitPrac\GitInitPrac\bin\Debug\GitInitPrac.exe.config
+C:\code\GitInitPrac\GitInitPrac\bin\Debug\GitInitPrac.exe
+C:\code\GitInitPrac\GitInitPrac\bin\Debug\GitInitPrac.pdb
+C:\code\GitInitPrac\GitInitPrac\obj\Debug\GitInitPrac.csprojResolveAssemblyReference.cache
+C:\code\GitInitPrac\GitInitPrac\obj\Debug\GitInitPrac.Properties.Resources.resources
+C:\code\GitInitPrac\GitInitPrac\obj\Debug\GitInitPrac.csproj.GenerateResource.Cache
+C:\code\GitInitPrac\GitInitPrac\obj\Debug\GitInitPrac.csproj.CoreCompileInputs.cache
+C:\code\GitInitPrac\GitInitPrac\obj\Debug\GitInitPrac.exe
+C:\code\GitInitPrac\GitInitPrac\obj\Debug\GitInitPrac.pdb
